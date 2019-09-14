@@ -1,5 +1,5 @@
 {
-  "name": "ws-client",
+  "name": "wslib",
   "private": false,
   "version": "0.0.1",
   "description": "Lightweight, thoroughly tested WebSocket client with features like automatic reconnection",
@@ -20,7 +20,7 @@
   "jsnext:main": "dist/index.es.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tylucaskelley/ws-client"
+    "url": "https://github.com/tylucaskelley/wslib"
   },
   "author": "Ty-Lucas Kelley <tylucaskelley@gmail.com> (https://tylucaskelley.com)",
   "license": "MIT",
